@@ -1,0 +1,26 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:2px dashed rgb(8, 174, 245);
+    height: 300px;
+    width: 500px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+td{
+    border:2px solid black;
+}
+th{
+    border:2px solid black;
+}
+table{
+    border:2px solid black;
+}
+
+.scrolle{
+    height: 200px;
+    overflow: scroll;
+}
